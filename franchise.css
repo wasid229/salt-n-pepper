@@ -1,0 +1,118 @@
+.container-nav {
+    border-bottom: 1px solid var(--color-dark);
+    gap: 25rem;
+}
+
+.nav {
+    font-size: 1.5rem;
+}
+
+.container {
+    margin: 8rem 0rem;
+}
+
+.head {
+    margin-bottom: 4rem;
+}
+
+form {
+    width: 100%;
+}
+
+.parent-1 {
+    width: 100%;
+}
+
+.child-1 {
+    font-size: 2.5rem;
+}
+
+input {
+    width: 60rem;
+    height: 4.5rem;  
+    border-radius: 0.3rem; 
+    border: 1px solid white;
+    padding: 2rem;
+}
+
+select {
+    width: 60rem;
+    height: 4.5rem;  
+    border-radius: 0.3rem; 
+    border: 1px solid white;
+    padding: 2rem;
+    font-size: 2.5rem;
+}
+
+.submit {
+    width: 123rem;
+}
+
+.button {
+    width: 18rem;
+    padding: 1.4rem;
+    border-radius: 5rem;
+    cursor: pointer;
+    font-size: 1.4rem;
+    background-color: var(--bg-red);
+    color: var(--color-white);
+    border: 1px solid none;
+}
+
+.container-8 {
+    margin: 0rem 18rem;
+    gap: 2rem;
+}
+
+.parent-8 {
+    margin: 6.5rem 0rem;
+}
+
+.width-8 {
+
+    width: 400px;
+}
+
+.width-8-div-3 {
+
+    width: 250px;
+}
+
+.para-8 {
+    line-height: 2rem;
+    font-size: 1.5rem;
+}
+
+.img-8 {
+
+    position: absolute;
+    top: 1000px;
+    left: 4rem;
+}
+
+.head-8 {
+    font-size: 1.6rem;
+}
+
+.site-link {
+    font-size: 1.4rem;
+}
+
+.contact {
+    width: 25%;
+}
+
+.head-office {
+    font-size: 1.6rem;
+}
+
+.children-9 {
+
+    margin: 10px;
+ 
+}
+.parent-9 {
+
+    gap: 800px;
+    font-size: 2.2rem;
+}
